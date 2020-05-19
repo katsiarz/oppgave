@@ -11,11 +11,15 @@ h1,h2 {
 }
 
 
+
+
+
+
 img {
-    width:100%;
-    height:auto;
-    
-}
+    width: 100%;
+    height: auto;
+  
+ }
 
 
 *{
@@ -26,7 +30,7 @@ img {
 
  nav{
     width: 100%;
-    align-items: center;
+    align-items: right;
     display:block;
     
     background-color:darkred;
@@ -77,7 +81,7 @@ header {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 50px;
     line-height:130%;
     
 }

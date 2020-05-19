@@ -27,64 +27,91 @@
     <body> 
 
 
-        <nav>
+        <nav class="topnav" id="myTopnav">
            
                
-                    
+                     <a href="index.html" class="logo">Company logo</a>
                     <ul class="menu">
                         <li><a href="index.html">home</a></li>
                         <li><a href="portfolio.html">portfolio</a></li>
-                        <li><a href="Infografic-CV%20(2).html">about</a></li>
+                        <li><a href="about.html">about</a></li>
                        <li><a href="contact.html">contact</a></li> 
+                        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                         <i class="fa fa-bars"></i>
+                       </a>
 
                     </ul>
                 
            
         </nav>
+        
+
 
         <header id="home">
             <div class="container">
                 <div class="row">   
-                    <div class="col-sm">
+                    <div class="col-sm-6">
 
 
-                        <h1> Hi, I am <br/> Katerina Zakrevskaya </h1> 
+                        <h1> Hi, I am Ola Nilsen </h1> 
 
                         <ul class="header1">
                             <li>Content writer</li>  
                             <li>Projectmanager</li>  
                         </ul>
 
-
-
+                
+                    
                         <a href="https://www.linkedin.com/in/katerina-zakrevskaya-89445529/" target="_blank" class="button">My CV on Linkedin</a>
                     </div>
+                    
+                   
+                         
+                <div class="col-sm-6"> 
+                   <img class="img-fluid" src="Bildet%20for%20CV.jpg" alt="Image of Ryddu Ryddu Festival poster"/>  
 
                 </div>   
             </div> 
+                 </div>
 
         </header >
 
 
-        <!--Projects-->
+        
 
         <!--Project2-->
-
-        <section id="posterdesign" class="project aqua">
+        
+         <section id="education">
 
             <div class="container">
                 <div class="row">   
-                    <img src="part5.svg" alt="Image of Ryddu Ryddu Festival poster"/> 
+                    <img  src="part5.svg" alt="Education image"/> 
+                    
                 </div> 
-                 <div class="row">   
-                    <h2> Poster design <br/>for Ryddu Ryddu festival</h2> 
-
-                    <p>A targetgorup for Ryddu Ryddu festival was young families with kids. A design I have developed has background in RYddu Ryddu logo. Colours and Ornament reflect the traditions of Sami people.  </p>
-
-                    <a href="" class="button">Read more..</a>
-                </div> 
-            </div>   
+                
+                 
+            </div> 
+             
+              <!--Projects-->
+                    
+                
         </section>    
+        
+
+        <section id="experience" class="project aqua">
+
+            <div class="container">
+                <div class="row">   
+                    <img  src="Part6.svg" alt="Skills and experience image"/> 
+                    <img  src="Part7.svg" alt="Skills and experience image"/> 
+                    
+                </div> 
+                
+            
+            </div>   
+        </section>  
+        
+       
         
       
 
@@ -180,6 +207,17 @@
         </div>
 
         <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+        
+        <script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
     </body>
 
 </html>
