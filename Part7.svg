@@ -8,11 +8,16 @@
 	.st2{font-size:71.6722px;}
 	.st3{fill:none;stroke:#D6A176;stroke-width:0.75;stroke-miterlimit:10;}
 	.st4{fill:none;}
+	.st5{font-family:'Lato-Regular';}
+	.st6{font-size:30px;}
 </style>
 <text transform="matrix(1 0 0 1 319.152 167.2417)" class="st0 st1 st2">years</text>
 <line class="st3" x1="324.94" y1="47.75" x2="815.54" y2="47.75"/>
 <line class="st3" x1="564.54" y1="90.65" x2="564.54" y2="233.55"/>
 <text transform="matrix(1 0 0 1 228.7053 176.3906)" class="st0 st1 st2">10</text>
-<rect x="621.67" y="100.9" class="st4" width="426.9" height="151.8"/>
 <rect x="196.41" y="102.66" class="st4" width="350" height="109.76"/>
+<rect x="632.29" y="77" class="st4" width="536.71" height="157"/>
+<text transform="matrix(1 0 0 1 632.2906 99.11)"><tspan x="0" y="0" class="st0 st5 st6">More than 10 years of international </tspan><tspan x="0" y="36" class="st0 st5 st6">working experience in the field of  a</tspan><tspan x="473.93" y="36" class="st0 st5 st6">-</tspan><tspan x="0" y="72" class="st0 st5 st6">counting, marketing, customer service, </tspan><tspan x="0" y="108" class="st0 st5 st6">laws and office management. </tspan></text>
+<rect x="717.24" y="-147.82" class="st4" width="209.76" height="42.32"/>
+<text transform="matrix(1 0 0 1 717.2393 -121.2834)" class="st0 st5" style="font-size:36px;">Photoshop</text>
 </svg>

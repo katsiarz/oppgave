@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+	 viewBox="0 0 1280 1289" style="enable-background:new 0 0 1280 1289;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{opacity:0.85;}
@@ -14,6 +14,9 @@
 	.st8{fill:none;stroke:#231F20;stroke-miterlimit:10;}
 	.st9{fill:none;stroke:#7F785B;stroke-miterlimit:10;}
 	.st10{font-size:36px;}
+	.st11{font-family:'ArialMT';}
+	.st12{font-size:71.6722px;}
+	.st13{fill:none;stroke:#D6A176;stroke-width:0.75;stroke-miterlimit:10;}
 </style>
 <rect x="1148.21" y="787.6" class="st0" width="6.2" height="3.1"/>
 <g class="st1">
@@ -56,24 +59,31 @@
 <rect x="1039.36" y="545.47" class="st0" width="71.49" height="35.73"/>
 <text transform="matrix(1.0974 0 0 1 1039.3574 567.5767)" class="st2 st6 st7">40%</text>
 <g>
-	<polygon class="st3" points="435.56,269.88 78.06,269.88 78.06,86 433.5,86 476.65,177.94 	"/>
-	<rect x="96.76" y="108" class="st0" width="361.19" height="172"/>
-	<text transform="matrix(0.9499 0 0 1 96.7576 134.5316)"><tspan x="0" y="0" class="st2 st6 st10">Graphicdesigner</tspan><tspan x="0" y="42" class="st2 st6 st10">Plan A communication</tspan><tspan x="0" y="84" class="st2 st6 st10">Jan 2020-Mars 2020</tspan></text>
-	<polygon class="st3" points="435.56,509.88 78.06,509.88 78.06,326 433.5,326 476.65,417.94 	"/>
-	<rect x="96.76" y="332" class="st0" width="361.19" height="172"/>
-	<text transform="matrix(0.9499 0 0 1 96.7576 358.5316)"><tspan x="0" y="0" class="st2 st6 st10">Content Creator</tspan><tspan x="0" y="42" class="st2 st6 st10">Bærum International </tspan><tspan x="0" y="84" class="st2 st6 st10">Hub</tspan><tspan x="0" y="126" class="st2 st6 st10">Jan 2019-Mars 2019</tspan></text>
-	<polygon class="st3" points="435.56,722.88 78.06,722.88 78.06,539 433.5,539 476.65,630.94 	"/>
-	<rect x="96.76" y="572" class="st0" width="361.19" height="172"/>
-	<text transform="matrix(0.9499 0 0 1 96.7576 598.5316)"><tspan x="0" y="0" class="st2 st6 st10">Freelance Writer</tspan><tspan x="0" y="42" class="st2 st6 st10">Helgelandsbland</tspan><tspan x="0" y="84" class="st2 st6 st10">2018</tspan></text>
-	<polygon class="st3" points="435.56,961.88 78.06,961.88 78.06,778 433.5,778 476.65,869.94 	"/>
-	<rect x="96.76" y="812" class="st0" width="361.19" height="172"/>
-	<text transform="matrix(0.9499 0 0 1 96.7576 838.5316)"><tspan x="0" y="0" class="st2 st6 st10">Office Administrator</tspan><tspan x="0" y="42" class="st2 st6 st10">Norwegian Taxoffice</tspan><tspan x="0" y="84" class="st2 st6 st10">2015-2020</tspan></text>
+	<polygon class="st3" points="489.56,273.88 132.06,273.88 132.06,90 487.5,90 530.65,181.94 	"/>
+	<rect x="150.76" y="112" class="st0" width="361.19" height="172"/>
+	<text transform="matrix(0.9499 0 0 1 150.7576 138.5316)"><tspan x="0" y="0" class="st2 st6 st10">Graphicdesigner</tspan><tspan x="0" y="42" class="st2 st6 st10">Plan A communication</tspan><tspan x="0" y="84" class="st2 st6 st10">Jan 2020-Mars 2020</tspan></text>
+	<polygon class="st3" points="489.56,513.88 132.06,513.88 132.06,330 487.5,330 530.65,421.94 	"/>
+	<rect x="150.76" y="336" class="st0" width="361.19" height="172"/>
+	<text transform="matrix(0.9499 0 0 1 150.7576 362.5316)"><tspan x="0" y="0" class="st2 st6 st10">Content Creator</tspan><tspan x="0" y="42" class="st2 st6 st10">Bærum International </tspan><tspan x="0" y="84" class="st2 st6 st10">Hub</tspan><tspan x="0" y="126" class="st2 st6 st10">Jan 2019-Mars 2019</tspan></text>
+	<polygon class="st3" points="489.56,726.88 132.06,726.88 132.06,543 487.5,543 530.65,634.94 	"/>
+	<rect x="150.76" y="576" class="st0" width="361.19" height="172"/>
+	<text transform="matrix(0.9499 0 0 1 150.7576 602.5316)"><tspan x="0" y="0" class="st2 st6 st10">Freelance Writer</tspan><tspan x="0" y="42" class="st2 st6 st10">Helgelandsbland</tspan><tspan x="0" y="84" class="st2 st6 st10">2018</tspan></text>
+	<polygon class="st3" points="489.56,965.88 132.06,965.88 132.06,782 487.5,782 530.65,873.94 	"/>
+	<rect x="150.76" y="816" class="st0" width="361.19" height="172"/>
+	<text transform="matrix(0.9499 0 0 1 150.7576 842.5316)"><tspan x="0" y="0" class="st2 st6 st10">Office Administrator</tspan><tspan x="0" y="42" class="st2 st6 st10">Norwegian Taxoffice</tspan><tspan x="0" y="84" class="st2 st6 st10">2015-2020</tspan></text>
 	<g>
-		<ellipse class="st5" cx="538.93" cy="192.44" rx="13.72" ry="14.44"/>
-		<ellipse class="st5" cx="537.95" cy="410.79" rx="13.72" ry="14.44"/>
-		<ellipse class="st5" cx="541.55" cy="651.06" rx="13.72" ry="14.44"/>
-		<ellipse class="st5" cx="537.95" cy="866.56" rx="13.72" ry="14.44"/>
-		<polyline class="st5" points="538.93,192.44 537.95,410.79 541.55,636.62 537.95,881 		"/>
+		<ellipse class="st5" cx="592.93" cy="196.44" rx="13.72" ry="14.44"/>
+		<ellipse class="st5" cx="591.95" cy="414.79" rx="13.72" ry="14.44"/>
+		<ellipse class="st5" cx="595.55" cy="655.06" rx="13.72" ry="14.44"/>
+		<ellipse class="st5" cx="591.95" cy="870.56" rx="13.72" ry="14.44"/>
+		<polyline class="st5" points="592.93,196.44 591.95,414.79 595.55,640.62 591.95,885 		"/>
 	</g>
 </g>
+<text transform="matrix(1 0 0 1 358.1288 1176.2969)" class="st2 st11 st12">years</text>
+<line class="st13" x1="363.92" y1="1056.81" x2="854.52" y2="1056.81"/>
+<line class="st13" x1="603.52" y1="1099.71" x2="603.52" y2="1242.61"/>
+<text transform="matrix(1 0 0 1 267.6821 1185.4458)" class="st2 st11 st12">10</text>
+<rect x="235.39" y="1111.71" class="st0" width="350" height="109.76"/>
+<rect x="671.27" y="1086.06" class="st0" width="536.71" height="157"/>
+<text transform="matrix(1 0 0 1 671.2675 1108.1653)"><tspan x="0" y="0" class="st2 st6 st7">More than 10 years of international </tspan><tspan x="0" y="36" class="st2 st6 st7">working experience in the field of  a</tspan><tspan x="473.93" y="36" class="st2 st6 st7">-</tspan><tspan x="0" y="72" class="st2 st6 st7">counting, marketing, customer service, </tspan><tspan x="0" y="108" class="st2 st6 st7">laws and office management. </tspan></text>
 </svg>
