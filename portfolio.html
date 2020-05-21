@@ -21,28 +21,28 @@
         <link href="https://fonts.googleapis.com/css?family=Dosis|Lato|Nunito&display=swap" rel="stylesheet">
 
         <meta charset="UTF-8">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
     </head>
     <body> 
 
 
-
-        <nav>
+ <div class="topnav" id="myTopnav">
            
                
+                     <a href="index.html">Katerina Zakrevskaya</a>
                     
-                    <ul class="menu">
-                        <li><a href="index.html">home</a></li>
-                        <li><a href="portfolio.html">portfolio</a></li>
-                        <li><a href="about.html">about</a></li>
+                
+                        <a href="portfolio.html">portfolio</a>
+                        <a href="about.html">about</a>
+                       <a href="contact.html">contact</a>
+                        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                         <i class="fa fa-bars"></i>
+                       </a>
+        </div>
+        
 
-                        <li><a href="contact.html">contact</a></li> 
-
-                    </ul>
-                 
-           
-        </nav>
 
         <!--Projects-->
 
@@ -216,6 +216,17 @@
         </footer>  
 
         <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+        
+         <script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
     </body>
 
 </html>
