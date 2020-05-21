@@ -9,7 +9,7 @@ font-size: 15px;
 .wrapp-poster {
     width: 100%;
     height: 650px;
-    background-image: url(Frontpage.svg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(Frontpage.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -18,7 +18,38 @@ font-size: 15px;
     flex-direction: row;
     opacity: 0.65;
     position: relative;
+      
+
 }
+
+.text-block {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  
+  
+}
+
+.text-block button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.text-block button:hover {
+  background-color: #555;
+  color: white;
+    
+}
+
 
 .topnav {
   overflow: hidden;
