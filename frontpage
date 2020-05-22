@@ -26,7 +26,6 @@
 
     </head>
     <body> 
-   
 
 
         <div class="topnav" id="myTopnav">
@@ -44,7 +43,7 @@
         </div>
         
          <div class="wrapp-poster">
-           
+            <div id="caption">
         
              <div  class="text-block">
                 
@@ -59,7 +58,7 @@
         
              
             </div>
-        
+         </div>
          
          
 
