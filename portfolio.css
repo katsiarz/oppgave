@@ -4,7 +4,7 @@ body,html {height:100%;
 
 body {
 font-family:'Lato', sans-serif;
-font-size: 15px;
+font-size: 20px;
 overflow-x: hidden;
     color: #7F785B;
    
@@ -51,7 +51,7 @@ font-family:'Lato', sans-serif;
 
 /* Content */
 .content {
-  background-color: #FDEFBD;
+  background-color: beige;
   padding: 10px;
 }
 
@@ -190,7 +190,7 @@ h1,h2 {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 60px;
     line-height:130%;
     
 }
@@ -201,6 +201,13 @@ line-height: 130%;
 }
  p {line-height:180%}
 
+h3 {
+font-size: 30px;
+   
+}
+ p {line-height:180%
+font-size: 20px;
+line-height: 130%; }
 
 
 
