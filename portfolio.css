@@ -6,18 +6,23 @@ body {
 font-family:'Lato', sans-serif;
 font-size: 15px;
 overflow-x: hidden;
+    color: #7F785B;
    
 
 }
 
 * {
- box-sizing:border-box;       
+ box-sizing:border-box;
+font-family:'Lato', sans-serif;
+
+ 
     
 }
 
 .main {
  max-width:1000px;
     margin:auto;
+    padding: 50px;
 
    }
 
@@ -46,7 +51,7 @@ overflow-x: hidden;
 
 /* Content */
 .content {
-  background-color: beige;
+  background-color: #FDEFBD;
   padding: 10px;
 }
 
@@ -64,7 +69,7 @@ overflow-x: hidden;
   }
 }
 .wrapp-poster {
-    background-image: url(Frontpage.svg);
+    background-image: url(frontpagemiddle.svg);
     width: 100%;
     height: 80%;
     -webkit-background-size:cover;  
@@ -77,16 +82,26 @@ overflow-x: hidden;
     
 }
 
+hr{
+  border: 3px solid #D6A176;   
+    
+}
+
+#hr {
+    border: 1px solid #D6A176;   
+}
 .text-block {
   text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
-  background: rgba(90, 0, 0, 0.5);
+  color: #7F785B;
+  background: white;
   padding: 15px;
 text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
+     border: 6px solid #D6A176;
+   
    
   
 }
@@ -100,31 +115,41 @@ text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
     display: inline-block; 
     border-radius: 20px;
     transition: background 0.3s ease-in-out; color 0.5s ease-in-out;
-    background-color: darkred;
+    background-color: #7F785B;
     text-align: center;
     }
 
 .button:hover {
     background: white;
     color:darkred;
+    border-color: darkred;
        
+}
+
+#olanilsen {
+    border: 3px solid #D6A176;
+     float:left;
+    
 }
 
 
 
 .topnav {
   overflow: hidden;
-  background-color:darkred;
+  background-color:white
+      
 }
 
 .topnav a {
-  float: left;
+  float: right;
   display: block;
-  color: white;
+  color: #7F785B;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 25px;
+ 
+  
 }
 
 .topnav a:hover {
@@ -161,9 +186,20 @@ text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
 
 h1,h2 {
     
-    font-family: 'Dosis', sans-serif;
+    font-family: 'lato', sans-serif;
 }
 
+h1 {
+    font-size: 50px;
+    line-height:130%;
+    
+}
+
+h2 {
+font-size: 30px;
+line-height: 130%;   
+}
+ p {line-height:180%}
 
 
 
@@ -186,26 +222,7 @@ img {
 
 
 
-header {
-    margin-top: 150px;
-    position:relative; 
-    display: flex; 
-     flex-direction: row; 
-}    
 
-
-h1 {
-    font-size: 50px;
-    line-height:130%;
-    
-}
-
-h2 {
-font-size: 30px;
-line-height: 130%;   
-}
-
- p {line-height:180%}
 
 .project {
     margin:  0;
@@ -231,7 +248,7 @@ line-height: 130%;
 }
 
 .colorforline {
-    background-color: darkred;   }
+    background-color: #7F785B;   }
 
  .article {
      margin-top:-45px;   
@@ -239,11 +256,7 @@ line-height: 130%;
           
     }
 
-.header1
-{ font-size: 30px;
-    
-    
-}
+
 
 
 .dropbtn {
