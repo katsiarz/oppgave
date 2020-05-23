@@ -13,9 +13,10 @@ overflow-x: hidden;
 
 * {
  box-sizing:border-box;
-font-family:'Lato', sans-serif;
+    font-family:'Lato', sans-serif;}
 
-.clean {padding:20px;
+.clean {padding:px;
+
         
     }
     
@@ -80,6 +81,7 @@ font-family:'Lato', sans-serif;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    padding-top:60px;
    
     
 }
